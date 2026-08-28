@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apps-studio-1f1c0.web.app/sitemap.xml
